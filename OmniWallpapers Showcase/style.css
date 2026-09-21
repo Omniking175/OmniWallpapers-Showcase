@@ -31,7 +31,6 @@ header{
     position:sticky;
     top:0;
     background:#fae9ff2e;
-    border-bottom:1px solid rgb(255, 187, 246);
     z-index:1000;
 }
 
@@ -65,7 +64,51 @@ nav a:hover{
     color: rgb(255, 187, 246);
     background-color: rgb(1, 13, 119);
     border: solid rgb(255, 187, 246);
-    padding: 10px;
+    padding: 10px 10px 10px 10px;
     border-width: 3px;
     border-radius: 50%;
+}
+
+.up-part {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+}
+
+.up-part h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part h2 {
+    font-size: 25px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-190.webp') no-repeat center center/cover;
+}
+
+.box{
+    border: 5px solid lightblue;
+    margin-right: 1100px;
+    margin-left: 50px;
+    padding-left: 25px;
 }
