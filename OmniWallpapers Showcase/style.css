@@ -23,8 +23,9 @@ body{
 .logo {
     font-size:32px;
     text-decoration:none;
-    font-family:cursive;
-    font-weight: bold;
+    font-family: "Rye", serif;
+    font-weight: 250;
+    font-style: normal;
 }
 
 header{
@@ -57,7 +58,7 @@ nav a{
     transition:.3s;
     font-size:20px;
     font-weight:bold;
-    font-family:Arial, Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 nav a:hover{
@@ -93,7 +94,7 @@ nav a:hover{
 }
 
 .up-part h2 {
-    font-size: 25px;
+    font-size: 35px;
     color:white;
     -webkit-text-stroke: 0.5px black;
     justify-content: left;
@@ -104,11 +105,277 @@ nav a:hover{
 .up-part {
     height: 100vh;
     background: url('Images/Laptop-Wallpaper-190.webp') no-repeat center center/cover;
+    position: relative;
 }
 
 .box{
-    border: 5px solid lightblue;
-    margin-right: 1100px;
+    border-radius: 15px;
+    margin-right: 100px;
     margin-left: 50px;
     padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
 }
+
+.title h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+.down-part{
+    background-color: rgb(255, 164, 194);
+    height:100vh;
+    position: relative;
+}
+
+.box-image{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(255, 0, 162);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color: rgb(239, 52, 192);
+    backdrop-filter: blur(5px);
+}
+
+.download-page h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+.up-part1 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+}
+
+.up-part1 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part1 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part1 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part1 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-209.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box1{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title1 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download1{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link1{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link1:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part1{
+    background-color: rgb(33, 43, 243);
+    height:100vh;
+    position: relative;
+}
+
+.box-image1{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix1{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(15, 2, 208);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric1{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page1{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color: rgb(39, 100, 254);
+    backdrop-filter: blur(5px);
+}
+
+.download-page1 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
