@@ -1,2 +1,2 @@
 # OmniWallpapers-Showcase
-it is a website that showcase my wallpapers of  OmniWallpapers on it 
+It is a website that showcase My Wallpapers of  OmniWallpapers on it.
