@@ -67,12 +67,13 @@ nav a:hover{
     border: solid rgb(255, 187, 246);
     padding: 10px 10px 10px 10px;
     border-width: 3px;
-    border-radius: 50%;
+    border-radius: 27px;
 }
 
 .up-part {
     margin: 0px;
     font-family: "New Rocker", system-ui;
+    border-bottom: 1px solid rgb(255, 0, 162);
 }
 
 .up-part h1 {
@@ -170,9 +171,13 @@ nav a:hover{
 }
 
 .down-part{
-    background-color: rgb(255, 164, 194);
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 162, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(239, 52, 192, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(251, 71, 179),rgb(255, 104, 217),rgb(244, 112, 211));
     height:100vh;
     position: relative;
+     border-bottom: 1px solid rgb(255, 0, 162);
 }
 
 .box-image{
@@ -229,6 +234,7 @@ nav a:hover{
 .up-part1 {
     margin: 0px;
     font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
 }
 
 .up-part1 h1 {
@@ -327,9 +333,13 @@ nav a:hover{
 
 
 .down-part1{
-    background-color: rgb(33, 43, 243);
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(33, 43, 243),rgb(18, 38, 217),rgb(0, 9, 165));
     height:100vh;
     position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
 }
 
 .box-image1{
@@ -387,6 +397,7 @@ nav a:hover{
 .up-part2 {
     margin: 0px;
     font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(65, 70, 84);
 }
 
 .up-part2 h1 {
@@ -485,9 +496,13 @@ nav a:hover{
 
 
 .down-part2{
-    background-color: rgb(165, 166, 177);
+    background:
+    radial-gradient(circle at top right,rgba(134, 129, 154, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(81, 79, 107, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(165, 166, 177),rgb(105, 108, 136),rgb(65, 70, 84));
     height:100vh;
     position: relative;
+     border-bottom: 1px solid rgb(65, 70, 84);
 }
 
 .box-image2{
@@ -537,3 +552,70 @@ nav a:hover{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+
+
+
+
+.down-part-mobile{
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 0, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(175, 1, 1, 0.12),transparent 35%),
+    linear-gradient(135deg,#670000,#630000,#9c0000);
+    height:100vh;
+    position: relative;
+    border-bottom: 1px solid rgb(66, 15, 15);
+}
+
+.box-image-mobile{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix-mobile{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(84, 2, 5);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+    font-size: 18px;
+}
+
+.ric-mobile{
+    position: absolute;
+    bottom: 100px;
+    right: 200px;
+}
+
+.ric-mobile img{
+    height: 560px;
+    width: 330px;
+    border: 2.5px solid white;
+}
+
+.download-page-mobile{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 100px;
+    background-color: rgb(120, 5, 5);
+    backdrop-filter: blur(5px);
+}
+
+.download-page-mobile h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
