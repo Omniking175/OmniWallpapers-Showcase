@@ -23,8 +23,9 @@ body{
 .logo {
     font-size:32px;
     text-decoration:none;
-    font-family: "Rye", serif;
-    font-weight: 250;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    -webkit-text-stroke: 0.9px white;
     font-style: normal;
 }
 
@@ -54,6 +55,7 @@ nav{
 
 nav a{
     color:rgb(1, 13, 119);
+    -webkit-text-stroke: 0.7px white;
     text-decoration:none;
     transition:.3s;
     font-size:20px;
@@ -63,6 +65,8 @@ nav a{
 
 nav a:hover{
     color: rgb(255, 187, 246);
+    -webkit-text-stroke: 0.7px rgb(87, 130, 2);
+    transition: 0.3s ease;
     background-color: rgb(1, 13, 119);
     border: solid rgb(255, 187, 246);
     padding: 10px 10px 10px 10px;
@@ -2107,6 +2111,484 @@ nav a:hover{
 }
 
 .download-page-mobile-3 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+.down-part-mobile-4{
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 0, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(175, 1, 1, 0.12),transparent 35%),
+    linear-gradient(135deg,#eeff05,#ffd28f,#e49931);
+    height:100vh;
+    position: relative;
+    border-bottom: 1px solid rgb(66, 15, 15);
+}
+
+.box-image-mobile-4{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix-mobile-4{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(230, 167, 22);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+    font-size: 18px;
+}
+
+.ric-mobile-4{
+    position: absolute;
+    bottom: 100px;
+    right: 200px;
+}
+
+.ric-mobile-4 img{
+    height: 560px;
+    width: 330px;
+    border: 2.5px solid white;
+}
+
+.download-page-mobile-4{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 100px;
+    background-color: rgb(253, 186, 78);
+    backdrop-filter: blur(5px);
+}
+
+.download-page-mobile-4 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+.down-part-mobile-5{
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 0, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(175, 1, 1, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(147, 225, 255),#5084fd,#0267fe);
+    height:100vh;
+    position: relative;
+    border-bottom: 1px solid rgb(66, 15, 15);
+}
+
+.box-image-mobile-5{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix-mobile-5{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(22, 130, 230);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+    font-size: 18px;
+}
+
+.ric-mobile-5{
+    position: absolute;
+    bottom: 100px;
+    right: 200px;
+}
+
+.ric-mobile-5 img{
+    height: 560px;
+    width: 330px;
+    border: 2.5px solid white;
+}
+
+.download-page-mobile-5{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 100px;
+    background-color: rgb(78, 110, 253);
+    backdrop-filter: blur(5px);
+}
+
+.download-page-mobile-5 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+.down-part-mobile-6{
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 0, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(175, 1, 1, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(252, 136, 136),#eebd37,#fe0256);
+    height:100vh;
+    position: relative;
+    border-bottom: 1px solid rgb(66, 15, 15);
+}
+
+.box-image-mobile-6{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix-mobile-6{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(230, 84, 22);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+    font-size: 18px;
+}
+
+.ric-mobile-6{
+    position: absolute;
+    bottom: 100px;
+    right: 200px;
+}
+
+.ric-mobile-6 img{
+    height: 560px;
+    width: 330px;
+    border: 2.5px solid white;
+}
+
+.download-page-mobile-6{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 100px;
+    background-color: rgb(253, 78, 104);
+    backdrop-filter: blur(5px);
+}
+
+.download-page-mobile-6 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+.down-part-mobile-7{
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 0, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(175, 1, 1, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(51, 68, 255),#67deff,#40b5fd);
+    height:100vh;
+    position: relative;
+    border-bottom: 1px solid rgb(66, 15, 15);
+}
+
+.box-image-mobile-7{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix-mobile-7{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(14, 38, 255);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+    font-size: 18px;
+}
+
+.ric-mobile-7{
+    position: absolute;
+    bottom: 100px;
+    right: 200px;
+}
+
+.ric-mobile-7 img{
+    height: 560px;
+    width: 330px;
+    border: 2.5px solid white;
+}
+
+.download-page-mobile-7{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 100px;
+    background-color: rgb(46, 88, 241);
+    backdrop-filter: blur(5px);
+}
+
+.download-page-mobile-7 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+.down-part-mobile-8{
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 0, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(175, 1, 1, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(87, 25, 221),#67deff,#c00c0c);
+    height:100vh;
+    position: relative;
+    border-bottom: 1px solid rgb(66, 15, 15);
+}
+
+.box-image-mobile-8{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix-mobile-8{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(98, 14, 255);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+    font-size: 18px;
+}
+
+.ric-mobile-8{
+    position: absolute;
+    bottom: 100px;
+    right: 200px;
+}
+
+.ric-mobile-8 img{
+    height: 560px;
+    width: 330px;
+    border: 2.5px solid white;
+}
+
+.download-page-mobile-8{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 100px;
+    background-color: rgb(157, 11, 11);
+    backdrop-filter: blur(5px);
+}
+
+.download-page-mobile-8 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+.down-part-mobile-9{
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 0, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(175, 1, 1, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(66, 8, 192),#d627ce,#d000ff);
+    height:100vh;
+    position: relative;
+    border-bottom: 1px solid rgb(66, 15, 15);
+}
+
+.box-image-mobile-9{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix-mobile-9{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(95, 19, 236);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+    font-size: 18px;
+}
+
+.ric-mobile-9{
+    position: absolute;
+    bottom: 100px;
+    right: 200px;
+}
+
+.ric-mobile-9 img{
+    height: 560px;
+    width: 330px;
+    border: 2.5px solid white;
+}
+
+.download-page-mobile-9{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 100px;
+    background-color: rgb(199, 63, 248);
+    backdrop-filter: blur(5px);
+}
+
+.download-page-mobile-9 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+.down-part-mobile-10{
+    background:
+    radial-gradient(circle at top right,rgba(255, 0, 0, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(175, 1, 1, 0.12),transparent 35%),
+    linear-gradient(135deg,rgb(90, 5, 154),#fc3cff,#9c00bf);
+    height:100vh;
+    position: relative;
+    border-bottom: 1px solid rgb(66, 15, 15);
+}
+
+.box-image-mobile-10{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix-mobile-10{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    padding: 25px 25px 15px 25px;
+    background-color: rgb(79, 5, 216);
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+    font-size: 18px;
+}
+
+.ric-mobile-10{
+    position: absolute;
+    bottom: 100px;
+    right: 200px;
+}
+
+.ric-mobile-10 img{
+    height: 560px;
+    width: 330px;
+    border: 2.5px solid white;
+}
+
+.download-page-mobile-10{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    position: absolute;
+    bottom: 115px;
+    left: 100px;
+    background-color: rgb(175, 11, 235);
+    backdrop-filter: blur(5px);
+}
+
+.download-page-mobile-10 h1{
     font-size:45px;
     color: white;
     -webkit-text-stroke: 0.5px black;
