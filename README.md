@@ -17,3 +17,13 @@ then on the mobile page you see a little different design with only mobile wallp
 I am going to add more wallpapers in this website in future but that's all have just a little copy paste and some little things change So I think that my website is complete .
 
 Hope you all like my website this is my first Stardance project😁😁.
+
+
+Update :
+Hello guys I love showing my wallpapers to all of you that's why I made this website OmniShowcase
+but in my First and second ship there is only 2-5 % of my total wallpapers are showed in it so 
+I thought It's time to show you more Wallpapers .
+I added more and more wallpapers of my in it hope you guys like all my wallpapers and 
+also you can download the wallpapers if you like some of them.
+
+hope you guys like my new wallpapers 😁.
