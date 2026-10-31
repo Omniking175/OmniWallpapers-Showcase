@@ -5451,3 +5451,4265 @@ nav a:hover{
     align-items: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
+
+
+
+
+
+
+
+.up-part11 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part11 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part11 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part11 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part11 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-9.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box11{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title11 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download11{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link11{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link11:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part11{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, purple,violet,purple);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image11{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix11{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color: darkviolet;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric11{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page11{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color: purple;
+    backdrop-filter: blur(5px);
+}
+
+.download-page11 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+.up-part12 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part12 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part12 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part12 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part12 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-10.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box12{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title12 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download12{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link12{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link12:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part12{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, gold,yellow,lightyellow,yellow,gold);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image12{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix12{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#eebd37;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric12{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page12{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:#e49931;
+    backdrop-filter: blur(5px);
+}
+
+.download-page12 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+.up-part13 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part13 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part13 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part13 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part13 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-11.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box13{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title13 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download13{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link13{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link13:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part13{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, darkred,red,pink,red,darkred);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image13{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix13{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:crimson;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric13{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page13{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:crimson;
+    backdrop-filter: blur(5px);
+}
+
+.download-page13 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+.up-part14 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part14 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part14 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part14 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part14 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-12.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box14{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title14 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download14{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link14{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link14:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part14{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, darkviolet,purple,violet,purple,darkviolet);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image14{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix14{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:blueviolet;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric14{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page14{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:darkmagenta;
+    backdrop-filter: blur(5px);
+}
+
+.download-page14 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+.up-part15 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part15 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part15 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part15 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part15 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-13.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box15{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title15 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download15{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link15{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link15:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part15{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, black,darkred,red,darkred,black);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image15{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix15{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#c00c0c;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric15{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page15{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:darkred;
+    backdrop-filter: blur(5px);
+}
+
+.download-page15 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+.up-part16 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part16 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part16 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part16 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part16 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-14.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box16{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title16 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download16{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link16{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link16:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part16{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, blue,skyblue,white,lightgreen,green);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image16{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix16{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:yellow;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric16{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page16{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:orange;
+    backdrop-filter: blur(5px);
+}
+
+.download-page16 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+.up-part17 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part17 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part17 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part17 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part17 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-15.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box17{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title17 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download17{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link17{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link17:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part17{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, blue,white,lightyellow,white,blue);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image17{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix17{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:green;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric17{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page17{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:darkgreen;
+    backdrop-filter: blur(5px);
+}
+
+.download-page17 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+.up-part18 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part18 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part18 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part18 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part18 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-16.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box18{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title18 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download18{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link18{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link18:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part18{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, purple,orange,green,yellow,blue);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image18{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix18{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:magenta;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric18{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page18{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:darkviolet;
+    backdrop-filter: blur(5px);
+}
+
+.download-page18 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+.up-part19 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part19 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part19 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part19 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part19 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-17.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box19{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title19 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download19{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link19{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link19:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part19{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, darkgreen,green,lightgreen,green,darkgreen);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image19{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix19{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#29721f;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric19{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page19{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:darkolivegreen;
+    backdrop-filter: blur(5px);
+}
+
+.download-page19 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+.up-part20 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part20 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part20 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part20 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part20 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-18.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box20{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title20 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download20{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link20{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link20:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part20{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, green,cyan,lightcyan,cyan,green);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image20{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix20{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:lime;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric20{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page20{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:limegreen;
+    backdrop-filter: blur(5px);
+}
+
+.download-page20 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+.up-part21 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part21 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part21 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part21 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part21 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-19.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box21{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title21 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download21{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link21{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link21:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part21{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, black,lightyellow,white,lightyellow,black);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image21{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix21{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:goldenrod;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric21{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page21{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:lightgray;
+    backdrop-filter: blur(5px);
+}
+
+.download-page21 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+.up-part21 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part21 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part21 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part21 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part21 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-19.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box21{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title21 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download21{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link21{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link21:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part21{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, black,lightyellow,white,lightyellow,black);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image21{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix21{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:goldenrod;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric21{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page21{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:lightgray;
+    backdrop-filter: blur(5px);
+}
+
+.download-page21 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+.up-part22 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part22 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part22 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part22 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part22 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-20.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box22{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title22 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download22{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link22{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link22:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part22{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, black,yellow,lightyellow,yellow,black);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image22{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix22{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#eebd37;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric22{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page22{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:#c09e25;
+    backdrop-filter: blur(5px);
+}
+
+.download-page22 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+.up-part23 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part23 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part23 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part23 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part23 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-21.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box23{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title23 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download23{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link23{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link23:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part23{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, darkviolet,violet,pink,violet,darkviolet);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image23{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix23{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:lightblue;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric23{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page23{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:skyblue;
+    backdrop-filter: blur(5px);
+}
+
+.download-page23 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+up-part24 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part24 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part24 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part24 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part24 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-22.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box24{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title24 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download24{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link24{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link24:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part24{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, darkgreen,cyan,white,yellow,red);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image24{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix24{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:darkcyan;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric24{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page24{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:orangered;
+    backdrop-filter: blur(5px);
+}
+
+.download-page24 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+up-part25 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part25 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part25 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part25 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part25 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-23.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box25{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title25 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download25{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link25{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link25:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part25{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, darkgreen,cyan,white,yellow,red);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image25{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix25{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:darkcyan;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric25{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page25{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:orangered;
+    backdrop-filter: blur(5px);
+}
+
+.download-page25 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+up-part26 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part26 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part26 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part26 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part26 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-24.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box26{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title26 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download26{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link26{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link26:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part26{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, blue,lightblue,skyblue,lightblue,blue);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image26{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix26{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:lightyellow;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric26{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page26{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:lightgray;
+    backdrop-filter: blur(5px);
+}
+
+.download-page26 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+up-part27 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part27 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part27 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part27 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part27 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-25.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box27{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title27 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download27{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link27{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link27:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part27{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, blue,lightblue,skyblue,lightblue,blue);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image27{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix27{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#fbd7f6;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric27{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page27{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:darkblue;
+    backdrop-filter: blur(5px);
+}
+
+.download-page27 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+
+up-part28 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part28 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part28 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part28 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part28 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-26.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box28{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title28 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download28{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link28{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link28:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part28{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, green,greenyellow,lightyellow,greenyellow,green);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image28{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix28{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#ffd28f;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric28{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page28{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:#ffa66a;
+    backdrop-filter: blur(5px);
+}
+
+.download-page28 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+up-part29 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part29 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part29 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part29 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part29 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-27.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box29{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title29 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download29{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link29{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link29:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part29{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, blue,skyblue,lightyellow,greenyellow,green);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image29{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix29{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#996511;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric29{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page29{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:#c09e25;
+    backdrop-filter: blur(5px);
+}
+
+.download-page29 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+up-part30 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part30 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part30 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part30 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part30 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-28.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box30{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title30 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download30{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link30{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link30:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part30{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, blue,skyblue,lightyellow,greenyellow,green);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image30{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix30{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#9c0000;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric30{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page30{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:#fe0256;
+    backdrop-filter: blur(5px);
+}
+
+.download-page30 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+up-part31 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part31 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part31 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part31 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part31 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-29.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box31{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title31 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download31{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link31{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link31:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part31{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, blue,skyblue,lightyellow,greenyellow,green);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image31{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix31{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:darkgreen;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric31{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page31{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:#29721f;
+    backdrop-filter: blur(5px);
+}
+
+.download-page31 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+up-part32 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part32 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part32 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part32 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part32 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-30.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box32{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title32 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download32{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link32{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link32:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part32{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, violet,magenta,pink,lightyellow,yellow);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image32{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix32{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:blanchedalmond;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric32{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page32{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:#eeff05;
+    backdrop-filter: blur(5px);
+}
+
+.download-page32 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+up-part33 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part33 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part33 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part33 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part33 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-31.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box33{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title33 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download33{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link33{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link33:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part33{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, green,yellowgreen,white,skyblue,cyan);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image33{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix33{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#eebd37;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric33{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page33{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:burlywood;
+    backdrop-filter: blur(5px);
+}
+
+.download-page33 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+up-part34 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part34 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part34 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part34 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part34 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-32.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box34{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title34 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download34{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link34{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link34:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part34{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, green,yellowgreen,white,skyblue,cyan);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image34{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix34{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:#eebd37;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric34{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page34{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:burlywood;
+    backdrop-filter: blur(5px);
+}
+
+.download-page34 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+up-part35 {
+    margin: 0px;
+    font-family: "New Rocker", system-ui;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.up-part35 h1 {
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part35 p {
+    font-size: 20px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part35 h2 {
+    font-size: 35px;
+    color:white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+}
+
+.up-part35 {
+    height: 100vh;
+    background: url('Images/Laptop-Wallpaper-33.webp') no-repeat center center/cover;
+    position: relative;
+}
+
+.box35{
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    left:20px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.title35 h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom:330px;
+    left:400px;
+    font-size: 80px;
+    font-family:fantasy;
+    -webkit-text-stroke: 0.1px black;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.download35{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    background-color: rgba(58, 115, 173, 0.4);
+    backdrop-filter: blur(5px);
+}
+
+.link35{
+    text-decoration: none;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    font-size: 33px;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    font-family: "New Rocker", system-ui;
+    font-weight: 650;
+    color: greenyellow;
+    -webkit-text-stroke: 0.9px white;
+}
+
+.link35:hover{
+    cursor: pointer;
+    transition: all 0.3s ease;
+    transform: scale(1.1);
+    color:blue;
+    -webkit-text-stroke: 0.9px yellow;
+}
+
+
+.down-part35{
+    background:
+    radial-gradient(circle at top right,rgba(51, 0, 255, 0.15),transparent 30%),
+    radial-gradient(circle at bottom left,rgba(65, 52, 239, 0.12),transparent 35%),
+    linear-gradient(135deg, green,yellowgreen,lightgreen,green,darkgreen);
+    height:100vh;
+    position: relative;
+     border-bottom: 1px solid rgb(0, 9, 165);
+}
+
+.box-image35{
+    height:auto;
+    width:520px;
+    border-radius: 25px;
+}
+
+.rix35{
+    border-radius: 25px;
+    position: absolute;
+    bottom: 250px;
+    left: 200px;
+    padding: 25px 25px 15px 25px;
+    background-color:orange;
+    backdrop-filter: blur(5px);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    -webkit-text-stroke: black 0.5px;
+}
+
+.ric35{
+    position: absolute;
+    bottom: 240px;
+    right: 200px;
+}
+
+.download-page35{
+    border-radius: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-left: 25px;
+    padding-right: 25px;
+    position: absolute;
+    bottom: 80px;
+    right: 500px;
+    background-color:orangered;
+    backdrop-filter: blur(5px);
+}
+
+.download-page35 h1{
+    font-size:45px;
+    color: white;
+    -webkit-text-stroke: 0.5px black;
+    justify-content: left;
+    text-align: left;
+    align-items: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
